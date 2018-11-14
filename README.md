@@ -1,4 +1,4 @@
-# Remote control gun
+# Robotic controlled gun
 Een constructie maken van een lanceerplatform met een loop waarmee ik een 6mm kogel of pijltje kan afvuren in een zelf gekozen richting met joystick.
 De kogel ga ik afvuren met luchtdruk die ik zelf bepaal. (persluchtreservoir)
 De plaats waar het voorwerp terecht zal komen ga ik aantonen met een laser. 
